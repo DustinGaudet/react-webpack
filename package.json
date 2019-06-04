@@ -10,7 +10,7 @@
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dustin Gaudet",
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.6",
